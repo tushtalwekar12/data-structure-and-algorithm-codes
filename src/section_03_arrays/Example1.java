@@ -1,6 +1,6 @@
 package section_03_arrays;
 // date : 05-02-2025
-// Topic : Array as function argument
+// Topic : Array as function argument - array are pass by reference
 public class Example1 {
     public static void update(int marks[]){
         // loop
