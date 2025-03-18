@@ -1,4 +1,5 @@
 package section_03_arrays;
+//  Linear Search -
 //find the index of element in a given array . key = 10 , array {2,4,6,8,10,12, 14,16}
 public class Example2 {
     public static int linearSearch(int numbers[], int key){
