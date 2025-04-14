@@ -1,7 +1,7 @@
 package section_03_arrays.array_Question;
 /*
 Find the Largest and Smallest Element in an Array
-
+Arrays Maximum and Minimum Element in an Array
 Given an array, find the maximum and minimum elements.
 Example: arr = [3, 1, 5, 2, 4] → Output: max = 5, min = 1
 */
